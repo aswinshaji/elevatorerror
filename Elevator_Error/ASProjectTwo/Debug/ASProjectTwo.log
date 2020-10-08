@@ -1,0 +1,4 @@
+﻿  ASProjectTwo.cpp
+c:\users\shaji\documents\visual studio 2017\projects\asprojecttwo\asprojecttwo\asprojecttwo.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shaji\documents\visual studio 2017\projects\asprojecttwo\asprojecttwo\asprojecttwo.cpp(14): warning C4101: 'd': unreferenced local variable
+  ASProjectTwo.vcxproj -> C:\Users\shaji\Documents\Visual Studio 2017\Projects\ASProjectTwo\Debug\ASProjectTwo.exe
