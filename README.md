@@ -1,2 +1,2 @@
 # elevatorerror
-This code is about the elevator gets an error and determines how long it will stay on each floor
+Elevator gets an error and estimates how long it will stay on each floor
